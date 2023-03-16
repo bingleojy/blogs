@@ -12,9 +12,9 @@ date: 2022-08-23 20:51:58
 ### Crucian主题
 
 ##### 项目地址[Crucian](https://github.com/binglinli/hexo-theme-crucian)
- 
+
 *基本功能:*
-- [x] 
+- [x]
 - [v]
 
 
@@ -22,3 +22,5 @@ date: 2022-08-23 20:51:58
 
 - [x]
 - [v]
+
+<!-- more -->

@@ -15,3 +15,6 @@ DOM (Document Object Model) 译为文档对象模型，是 HTML 和 XML 文档�
 HTML DOM 定义了访问和操作 HTML 文档的标准方法。
 
 DOM 以树结构表达 HTML 文档。
+
+
+<!-- more -->

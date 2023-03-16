@@ -18,6 +18,8 @@ Hexo是一个使用node.js编写的静态博客生成框架
 hexo依赖：
 	- Node.js
 	- Git
-	
-	
+
+
   Hexo使用[Markdown](https://daringfireball.net/projects/markdown/)解析文章,所以文章是用自定义头部和Markdown语法组成。
+
+<!-- more -->

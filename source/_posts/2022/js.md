@@ -30,6 +30,10 @@ var aStr = "foobar";
 /* 然而，你不能，/* 嵌套注释 */ 语法错误 */
 {% endcodeblock %}
 
+
+<!-- more -->
+
+
 ### 声明
 
 JavaScript 有三种声明方式。
@@ -97,7 +101,7 @@ var myvar = "my value";
 		block of code to be executed if the condition is false
 	}
 {% endcodeblock %}
-	
+
 #### if else if 语句
 
 {% codeblock lang:javascript %}
@@ -126,4 +130,3 @@ var myvar = "my value";
 			[break;]
 	}
 {% endcodeblock %}
-

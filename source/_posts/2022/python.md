@@ -31,6 +31,8 @@ Python 每 Decorators
 Python 每 List comprehension and advantages
 Python 每 Set up Virtual Env
 
+<!-- more -->
+
 Python OOPS:
 Python 每 Understanding Classes and Objects
 Python 每 Constructures
